@@ -1,5 +1,5 @@
 # gold_price_prediction
-Project Description: Gold Price Prediction Using Random Forest Regression
+Project Description: Gold Price Prediction
 This project focuses on predicting gold prices using machine learning techniques, specifically Random Forest Regression. The aim is to develop a model that can analyze historical gold price data and forecast future prices based on key economic indicators.
 
 Objectives:
